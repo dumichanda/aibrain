@@ -1,0 +1,6 @@
+{
+  "name": "Hermes Obsidian — Shared AI Memory Vault",
+  "description": "Shared Obsidian PARA memory vault and multi-agent orchestrator connecting Hermes, Claude Code, Codex, and OpenClaw with nightly agent logs, interactive memory graph, and voice readback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
